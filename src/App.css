@@ -113,12 +113,4 @@ h1{
   font-weight:600;
 }
 
-@media screen and (max-width:640px) {
-  .body{
-    display: grid;
-    grid-template-columns: repeat(3,85px);
-    grid-auto-rows: 85px;
-    justify-content: center;
-    gap: 20px;
-  }
-}
+
